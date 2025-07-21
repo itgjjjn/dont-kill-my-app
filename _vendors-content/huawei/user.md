@@ -76,7 +76,8 @@ It is called <b>PowerGenie</b> and it kills all apps that are not on its whiteli
 
 
 
-Unfortunately this is a system app and can only be fully uninstalled using ADB (Android Debug Bridge) Source: [XDA](https://forum.xda-developers.com/mate-20-pro/themes/remove-powergenie-to-allow-background-t3890409).
+Unfortunately this is a system app and can only be fully uninstalled using ADB (Android Debug Bridge) Source: [XDA](https://forum.xda-de![Uploading Sample image.jpg…]()
+velopers.com/mate-20-pro/themes/remove-powergenie-to-allow-background-t3890409).
 
 
 You need to:
